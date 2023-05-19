@@ -70,7 +70,7 @@ if __name__ == '__main__':
             f"""
              <style>
              .stApp {{
-                 background-image: url("https://im.ezgif.com/tmp/ezgif-1-323b1c5873.gif");
+                 background-image: url("egg.gif");
                  background-attachment: fixed;
                  background-size: cover
              }}
